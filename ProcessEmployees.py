@@ -60,4 +60,4 @@ employees["salary"] = new_salary
 for employee in employees:
 
     print('Manager Name:', employees["firstname"],
-          employees["lastname"], 'Current Salary:', employees["salary"])
+          employees["lastname "], 'Current Salary:', employees["salary"])
